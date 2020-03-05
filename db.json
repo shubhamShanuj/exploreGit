@@ -1,7 +1,16 @@
-{ 
-  "shubham" : "shubham",
-  "jitendra" : "jitendra",
-  "lohit" : "lohit",
-  "abhilash" : "abhilash",
-  "mohit" : "mohit"
-}
+[{
+	"username": "shubham",
+	"secret": "shubham"
+}, {
+	"username": "jitendra",
+	"secret": "jitendra"
+}, {
+	"username": "lohit",
+	"secret": "lohit"
+}, {
+	"username": "abhilash",
+	"secret": "abhilash"
+}, {
+	"username": "mohit",
+	"secret": "mohit"
+}]
